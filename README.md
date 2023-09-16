@@ -9,15 +9,6 @@
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-
-
-### About me:  
-I'm currently at my last year of University, taking up Bachelor of Science in Information Technology. Looking for my first job opportunity in order to gain more knowledge and experience specifically in Front end web development. I've tried creating Android Applications, Software Systems for our school projects.  
-  
-
-<br/>  
 
 
 <br/>  
